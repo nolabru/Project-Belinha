@@ -502,7 +502,7 @@ footer p span:hover
         top: 0px;
         right: 0px;
         margin: 5px;
-        background-image: url(assets/image/menu.png);
+        background-image: url(img/menu.png);
         background-repeat: no-repeat;
         background-size: 30px;
         background-position: center;  
@@ -511,7 +511,7 @@ footer p span:hover
     }
     .menu.active
     {
-        background: url(assets/image/close.png) no-repeat;
+        background: url(img/close.png) no-repeat;
         background-position: center;
         background-size: 20px;
         z-index: 2;
@@ -530,7 +530,7 @@ footer p span:hover
         flex-direction: column-reverse;
         justify-content: center;
         background-color: var(--corPrincipal);
-        background-image: url(assets/image/pata2.png);
+        background-image: url(img/pata2.png);
         background-size: 450px;
         background-position: cover;
         z-index: 1;
